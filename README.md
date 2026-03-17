@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Mohamed Aymane Badia
 
-<!--
-**BADIAMOHAMEDAYMANE/BADIAMOHAMEDAYMANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Informatique  
+💻 Développeur Web (React, Flask, MySQL)  
 
-Here are some ideas to get you started:
+## 🚀 Projets
+- Application de gestion des vols (Flask + MySQL)
+- Interface React (API temps réel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+React | Flask | Python | MySQL | API REST | Git
+
+## 📫 Contact
+LinkedIn : (https://www.linkedin.com/in/mohamed-aymane-badia-40a9712a1/)
