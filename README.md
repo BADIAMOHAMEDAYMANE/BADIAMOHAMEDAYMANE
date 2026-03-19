@@ -11,6 +11,12 @@
 
 ## 🚀 Mes Projets Phares
 
+### 🤖 [News-Classification-Project](https://github.com/BADIAMOHAMEDAYMANE)
+*Modèle de Machine Learning pour la classification automatique d'articles de presse.*
+- **IA & NLP :** Prétraitement de texte (Tokenization, Stop words) et vectorisation.
+- **Modélisation :** Entraînement de classifieurs pour identifier les catégories thématiques.
+- **Outils :** Scikit-learn, Pandas, NLTK.
+
 ### 🔹 [Flight Management System](https://github.com/BADIAMOHAMEDAYMANE/backend-costume)
 *Système complet de gestion de vols en architecture Backend.*
 - **Backend :** Développement d'API REST robustes avec **Flask**.
