@@ -17,6 +17,21 @@
 - **Modélisation :** Entraînement de classifieurs pour identifier les catégories thématiques.
 - **Outils :** Scikit-learn, Pandas, NLTK.
 
+### 🧠 [CIFAR-10 CNN Classifier](https://github.com/BADIAMOHAMEDAYMANE)
+*Réseau de neurones convolutif (CNN) pour la classification d'images sur GPU avec PyTorch.*
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-GPU%20T4-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Précision-85%25-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dataset-CIFAR--10-orange?style=flat-square"/>
+</p>
+
+- **Deep Learning :** Architecture CNN avec BatchNormalization, Dropout et Data Augmentation.
+- **Optimisation GPU :** Entraînement accéléré sur Google Colab (Tesla T4), `pin_memory`, `.to(device)`.
+- **Pipeline complet :** Prétraitement → Entraînement → Évaluation → Sauvegarde du modèle (`.pth`).
+- **Outils :** PyTorch, torchvision, Matplotlib, NumPy.
+
 ### 🔹 [Flight Management System](https://github.com/BADIAMOHAMEDAYMANE/backend-costume)
 *Système complet de gestion de vols en architecture Backend.*
 - **Backend :** Développement d'API REST robustes avec **Flask**.
@@ -41,6 +56,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📊 Intelligence Artificielle & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -49,6 +65,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
