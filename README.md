@@ -23,14 +23,18 @@
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-GPU%20T4-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Précision-85%25-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Précision-~78%25-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Dataset-CIFAR--10-orange?style=flat-square"/>
+  <a href="https://animal-classification-2gd59hwka4ppwvsjsnp7cp.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  </a>
 </p>
 
 - **Deep Learning :** Architecture CNN avec BatchNormalization, Dropout et Data Augmentation.
 - **Optimisation GPU :** Entraînement accéléré sur Google Colab (Tesla T4), `pin_memory`, `.to(device)`.
 - **Pipeline complet :** Prétraitement → Entraînement → Évaluation → Sauvegarde du modèle (`.pth`).
-- **Outils :** PyTorch, torchvision, Matplotlib, NumPy.
+- **Démo interactive :** Application Streamlit déployée — [🔗 Tester en ligne](https://animal-classification-2gd59hwka4ppwvsjsnp7cp.streamlit.app/)
+- **Outils :** PyTorch, torchvision, Streamlit, Docker, Matplotlib, NumPy.
 
 ### 🔹 [Flight Management System](https://github.com/BADIAMOHAMEDAYMANE/backend-costume)
 *Système complet de gestion de vols en architecture Backend.*
@@ -66,6 +70,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
