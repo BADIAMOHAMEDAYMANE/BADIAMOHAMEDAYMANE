@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Spécialité-IA%20%26%20Data%20Science-blue?style=for-the-badge" />
 </p>
 
-🎓 **Étudiant en 4ème année IA & Data Science** 🤖 Passionné par le **Machine Learning**, l'**Analyse de Données** et le **Deep Learning** 💻 Développeur Full-Stack (React, Flask, MySQL)
+🎓 **Étudiant en 4ème année IA & Data Science**  
+🤖 Passionné par le **Machine Learning**, l'**Analyse de Données** et le **Deep Learning**  
+💻 Développeur Full-Stack (React, Flask, MySQL)
 
 ---
 
@@ -78,8 +80,13 @@
 ## 📈 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BADIAMOHAMEDAYMANE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats de Mohamed" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADIAMOHAMEDAYMANE&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BADIAMOHAMEDAYMANE&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="180px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADIAMOHAMEDAYMANE&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BADIAMOHAMEDAYMANE&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
