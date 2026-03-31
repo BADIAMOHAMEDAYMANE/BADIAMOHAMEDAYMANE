@@ -77,16 +77,14 @@
 
 ---
 
-## 📈 Mes Statistiques GitHub
+## 📈 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BADIAMOHAMEDAYMANE&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="180px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADIAMOHAMEDAYMANE&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BADIAMOHAMEDAYMANE&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/Profil%20GitHub-BADIAMOHAMEDAYMANE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <br><br>
+  <a href="https://github.com/BADIAMOHAMEDAYMANE?tab=repositories">
+    <img src="https://img.shields.io/badge/Voir%20mes%20repositories-%E2%86%92-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
