@@ -13,6 +13,23 @@
 
 ## 🚀 Mes Projets Phares
 
+### 📡 [TrendRadar — Détection de tendances Twitter](https://github.com/BADIAMOHAMEDAYMANE/TrendRadar-Project)
+*Application web de détection et visualisation de tendances Twitter/X, propulsée par le Machine Learning.*
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-NLP-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/KMeans-Clustering-blueviolet?style=flat-square"/>
+</p>
+
+- **NLP :** Nettoyage de texte bilingue (FR/EN), suppression des stopwords, vectorisation TF-IDF.
+- **ML :** Clustering KMeans pour regrouper les tweets par thématique.
+- **Visualisation :** Graphiques interactifs Plotly, treemap des hashtags, nuage de mots.
+- **Outils :** Streamlit, Pandas, Scikit-learn, Plotly, WordCloud, NLTK.
+
 ### 🤖 [News-Classification-Project](https://github.com/BADIAMOHAMEDAYMANE)
 *Modèle de Machine Learning pour la classification automatique d'articles de presse.*
 - **IA & NLP :** Prétraitement de texte (Tokenization, Stop words) et vectorisation.
