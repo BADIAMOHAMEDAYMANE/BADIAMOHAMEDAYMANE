@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Status-Looking%20for%20an%20internship-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Specialty-AI%20%26%20Data%20Science-blue?style=for-the-badge" />
 </p>
-🎓 **4th Year AI & Data Science Student**
+🎓 **5th Year AI & Data Science Student**
 🤖 Passionate about **Machine Learning**, **Data Analysis**, and **Deep Learning**
 💻 Full-Stack Developer (React, Flask, MySQL)
 
