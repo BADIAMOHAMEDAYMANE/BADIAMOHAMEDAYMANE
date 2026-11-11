@@ -77,21 +77,23 @@
 
 ---
 
-### 📰 [News Classification — BiLSTM](https://github.com/BADIAMOHAMEDAYMANE/News-Classification-Project)
-*Deep Learning model classifying news articles (headline + description) into 42 categories.*
+### 📰 [News Classification — BiLSTM vs TF-IDF baseline](https://github.com/BADIAMOHAMEDAYMANE/News-Classification-Project)
+*Classifying news articles (headline + description) into 42 imbalanced categories, comparing a BiLSTM with a TF-IDF + linear SVM baseline.*
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-NLP-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Dataset-209k%20articles-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Top--3%20accuracy-69.0%25-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Top--3%20accuracy-83.3%25-brightgreen?style=flat-square"/>
 </p>
 
-- **Data:** News Category Dataset — 209,527 articles, 42 imbalanced categories (balanced class weights).
+- **Data:** News Category Dataset — 209,527 articles, 42 imbalanced categories.
 - **NLP preprocessing:** cleaning (URLs, mentions, digits, punctuation), NLTK stopwords, Keras tokenizer (15k vocabulary), padding.
-- **Model:** Embedding (128) → Bidirectional LSTM (64) → Dense layers → Softmax, with EarlyStopping and ReduceLROnPlateau.
-- **Results (41,858 test articles):** top-1 accuracy **45.4%**, top-3 accuracy **69.0%** (random baseline 2.4%, majority class ~17%).
+- **Models:** Embedding (128) → Bidirectional LSTM (64) → Dense layers → Softmax, with softened class weights and EarlyStopping; baseline TF-IDF (1-2 grams) + LinearSVC.
+- **Results (41,889 test articles):** TF-IDF + LinearSVC **63.5% top-1 / 83.3% top-3** (macro F1 0.50); BiLSTM 55.4% / 74.3% (macro F1 0.41).
+- **Finding:** fully balanced class weights dropped POLITICS recall to 6% (36.7% accuracy); softening them restored it to 70%.
 - **Tools:** TensorFlow/Keras, NLTK, Scikit-learn, Pandas, Matplotlib, Seaborn.
 
 ---
