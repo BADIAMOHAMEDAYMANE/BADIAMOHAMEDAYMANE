@@ -31,7 +31,7 @@
 
 ---
 
-### 📡 [TrendRadar — Twitter Trend Detection](https://github.com/BADIAMOHAMEDAYMANE/TrendRadar-Project)
+### 📡 [TrendRadar — Reddit Trend Detection](https://github.com/BADIAMOHAMEDAYMANE/TrendRadar-Project)
 *Web application for detecting and visualizing Twitter/X trends, powered by Machine Learning.*
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
