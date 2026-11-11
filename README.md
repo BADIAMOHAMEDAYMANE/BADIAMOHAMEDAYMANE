@@ -16,7 +16,7 @@
 
 ## 💼 Experience
 
-### PFA Internship — Front-end & AI · Lama Healthcare (Practice One), USA · Summer 2026
+### PFA Internship — Front-end & AI · Lama Healthcare (Practice One), USA · July – September 2026
 *Rebuild of a SaaS credentialing platform for US healthcare providers, in a team of three (HIPAA scope).*
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -107,9 +107,9 @@
   <img src="https://img.shields.io/badge/KMeans-Clustering-blueviolet?style=flat-square"/>
 </p>
 
-- **Data:** Reddit posts collected through the Reddit API.
+- **Data:** Reddit posts collected through Reddit's public JSON endpoints (retries, streaming, Parquet cache).
 - **NLP:** bilingual cleaning (FR/EN) with spaCy and NLTK, language detection, TF-IDF vectorization.
-- **ML:** KMeans topic clustering and Random Forest topic classification.
+- **ML:** KMeans topic clustering, Random Forest trained on the clusters, sliding-window burst detection and virality prediction (gradient boosting).
 - **Visualization:** interactive Plotly charts, hashtag treemap, word cloud.
 - **Tools:** Streamlit, Pandas, Scikit-learn, spaCy, NLTK, Plotly, WordCloud.
 
@@ -131,7 +131,7 @@
 
 ---
 
-### 🖼️ [Image Captioning — CNN vs Attention vs Transformer](https://github.com/BADIAMOHAMEDAYMANE/Image-Capitioning)
+### 🖼️ [Image Captioning — CNN vs Attention vs Transformer](https://github.com/BADIAMOHAMEDAYMANE/Image-Captioning)
 *From-scratch image captioning system in PyTorch, comparing three decoder architectures on the same pipeline.*
 <p>
   <img src="https://img.shields.io/badge/Status-Work%20in%20progress-yellow?style=flat-square"/>
@@ -154,10 +154,10 @@
 
 | Project | Stack | Repository |
 |---|---|---|
-| 🚗 Car rental management | ASP.NET Core MVC, C#, EF Core (Code First), SQL Server, N-Tier architecture, WPF client | [Project-dotNet](https://github.com/BADIAMOHAMEDAYMANE/Project-dotNet) |
-| 👔 Costume management REST API | Laravel 9, PHP, JWT authentication (custom middleware) | [backend-costume](https://github.com/BADIAMOHAMEDAYMANE/backend-costume) |
-| ✈️ Flight tracker & AI travel assistant | React (Vite), Flask REST API, Google Gemini API | [Flight-Management](https://github.com/BADIAMOHAMEDAYMANE/Flight-Management) |
-| 📝 QCM generator | Java, JavaFX, MVC, Maven | [javafx-project](https://github.com/BADIAMOHAMEDAYMANE/javafx-project) |
+| 🚗 Car rental management | ASP.NET Core MVC (.NET 8), C#, EF Core (Code First), MySQL, N-Tier architecture, role-based access, PDF invoices (QuestPDF) | [Project-dotNet](https://github.com/BADIAMOHAMEDAYMANE/Project-dotNet) |
+| 👔 Costume management REST API | Laravel 9, PHP, MySQL, JWT authentication, controller → service → repository layers | [backend-costume](https://github.com/BADIAMOHAMEDAYMANE/backend-costume) |
+| ✈️ Real-time flight tracker & AI travel assistant | React (Vite), AviationStack API (search, filters, pagination), Flask REST API, Google Gemini API | [Flight-Management](https://github.com/BADIAMOHAMEDAYMANE/Flight-Management) |
+| 📝 QCM generator | Java 21, JavaFX, MVC + DAO (JDBC, MySQL), Maven | [javafx-project](https://github.com/BADIAMOHAMEDAYMANE/javafx-project) |
 
 ---
 
@@ -191,7 +191,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge)
 
 ### ⚙️ Professional Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
